@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <router-link to="/" exact>トップページ</router-link>
+    <router-link to="/" exact>チャットページ</router-link>
     <router-link to="/test" >テストページ</router-link>
     <router-view></router-view>
   </div>

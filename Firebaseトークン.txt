@@ -1,0 +1,7 @@
+1/smtXwjvB_fpXcbutO9LoHfzBwLtQUBw3wsrr05Y_tpADPFoDPjKaP9DWivqw2u9A
+
+firebase deploy --token "$FIREBASE_TOKEN"
+
+firebase deploy --only database --token 1/smtXwjvB_fpXcbutO9LoHfzBwLtQUBw3wsrr05Y_tpADPFoDPjKaP9DWivqw2u9A
+
+$ firebase deploy --only database
